@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR1f0013_000.yaml, hash: 'sha256:af9c129ac6586c38b05da1fa412558e636a87abed12676f622503c66b6064e32'}
   - {seq: 1, filename: KR1f0013_001.yaml, hash: 'sha256:e6ea4555dd49ef5e088d320f4669c164754c9ce0a265cf6df9b462f6830a8003'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1f0013_000.markers.yaml, hash: 'sha256:4fcbed1c6dad6d72574c32ac2f14362b1e677a1facae5c03ce20c9b50e7bf5bf'}
-  - {seq: 1, role: markers, filename: assets/KR1f0013_001.markers.yaml, hash: 'sha256:62936ff7236655dace881bd48231c31ec0a7d0e38bddd18b316a98774a2efb0c'}
+  - {seq: 0, role: markers, filename: assets/KR1f0013_000.markers.yaml, hash: 'sha256:ae76eb3fb0deddc6de5ad0657ea8357fcfaee2be14572ea3d26df91d83b618b7'}
+  - {seq: 1, role: markers, filename: assets/KR1f0013_001.markers.yaml, hash: 'sha256:891bdbec817e381f69f02d06fa4a38c532f34c69f873efbbf62aed6e9be08a54'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 孝經問
   type: section
   level: 1
-hash: sha256:1e806187e9e3e7265784a0b9393dddf8f512acf5d6a5e5fa8e11c476921bd104
+hash: sha256:2ef3a53d55ef0e93256f2fb4899452c7508334026b625d90e0806e1194ffdf50
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
